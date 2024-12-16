@@ -1,0 +1,5 @@
+numpy==1.26.4
+pandas==1.5.3
+boto3==1.33.1
+s3fs
+s3transfer==0.8.2
